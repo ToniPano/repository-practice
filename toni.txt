@@ -1,0 +1,3 @@
+Press any key to start writing in vim after oening a file.
+Press esc key to stop writing.
+Use command :wq to write to file and quit vim.
